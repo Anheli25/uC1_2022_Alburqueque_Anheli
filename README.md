@@ -19,6 +19,6 @@
 > **TE1:**
 *"Delay Library"*
 *Librería de retardos - APA*
-Esta librería tiene diferentes retardos tanto en microsegundos como en milisegundos; con la finalidad de ser la base para la implementación de futuros proyectos que requieran de la misma y así ser más eficientes tanto en simulación como en práctica.                                                         
+Esta librería implementa una variedad de retardos tanto en microsegundos(μs) como en milisegundos(ms); con la finalidad de ser la base para la implementación de futuros proyectos que requieran de la misma y así ser más eficientes tanto en simulación como en práctica.                                                         
 --------------------------------------------------------------
 UNP
