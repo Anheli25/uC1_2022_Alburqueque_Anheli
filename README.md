@@ -18,6 +18,6 @@
 
 > **TE1:**
 *"Librería de retardos - APA"* 
-Esta librería tiene diferentes retrasos tanto en microsegundos como en milisegundos; con la finalidad de ser la base para la implementación de futuros proyectos que requieran de la misma y así ser más eficientes tanto en simulación como en práctica.                                                         
+Esta librería tiene diferentes retardos tanto en microsegundos como en milisegundos; con la finalidad de ser la base para la implementación de futuros proyectos que requieran de la misma y así ser más eficientes tanto en simulación como en práctica.                                                         
 --------------------------------------------------------------
 UNP
