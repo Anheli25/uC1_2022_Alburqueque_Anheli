@@ -1,6 +1,5 @@
 # uC1_2022_Alburqueque_Anheli
-**Universidad Nacional De Piura
- Ing. Electrónica y telecomunicaciones**
+**Ing. Electrónica y telecomunicaciones**
 
  - [ ] ***Curso:*** Microcontroladores I
 
@@ -21,4 +20,4 @@
 *Librería de retardos - APA*
 Esta librería implementa una variedad de retardos tanto en microsegundos(μs) como en milisegundos(ms); con la finalidad de ser la base para la implementación de futuros proyectos que requieran de la misma y así ser más eficientes tanto en simulación como en práctica.                                                         
 --------------------------------------------------------------
-UNP
+**Universidad Nacional De Piura**
