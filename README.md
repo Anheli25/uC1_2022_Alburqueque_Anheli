@@ -8,7 +8,7 @@
 
  - [ ] ***Modelo de Tarjeta:*** Curiosity Nano PIC18F57Q84
  - [ ] ***Entorno:*** MPLAB X IDE
- - [ ] ***Lenguaje:*** AMS -C 
+ - [ ] ***Lenguaje:*** ASM - C 
 
     
 
